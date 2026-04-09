@@ -89,22 +89,37 @@ La documentation est organisée selon un principe simple :
     pricing-et-concurrence.md
     hypotheses-economiques.md
     modele-de-commercialisation.md
+    modele-de-facturation.md
 
   /04_produit-metier
     modele-metier.md
     parcours-utilisateur.md
     regles-de-gestion.md
+    user-stories.md
+    criteres-acceptation.md
 
   /05_tech-architecture
     architecture-logique.md
     architecture-technique.md
     stack-et-choix-techniques.md
+    dependances-et-services-externes.md
+    strategie-authentification.md
+    strategie-autorisations-rbac.md
 
-  /06_validation-roadmap
+  /06_ops-deploiement-qualite
+    performance-et-capacite.md
+    securite-applicative.md
+    securite-reseau-et-infra.md
+    observabilite.md
+    infrastructure-deploiement.md
+    billing-technique.md
+
+  /07_validation-roadmap
     hypotheses-a-tester.md
     questions-ouvertes.md
     roadmap.md
     journal-decisions.md
+    registre-des-risques.md
 ---
 
 ## 6. Rôle des dossiers

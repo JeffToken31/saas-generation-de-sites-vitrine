@@ -46,6 +46,7 @@ Il sert à concentrer les arbitrages restants.
 - quelle stack permet la production la plus fiable et rapide ?
 - quel niveau d’automatisation est réaliste en V1 ?
 - quels services externes seront nécessaires ?
+- quels infrastructure et outils de monitoring ?
 - quels coûts récurrents faut-il intégrer ?
 - quel niveau d’observabilité ou d’administration est nécessaire dès le départ ?
 - quelle stratégie de publication / preview est la plus simple en V1 ?

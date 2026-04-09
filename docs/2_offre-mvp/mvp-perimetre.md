@@ -40,7 +40,7 @@ Il doit être défini à partir de la promesse minimale à tenir proprement.
 
 - title / meta
 - H1 métier + ville
-- sitemap
+- sitemap / robot.txt
 - schema.org LocalBusiness
 
 ### Publication
