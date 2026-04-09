@@ -1,0 +1,1 @@
+Validation d’entrée, sanitation, rendu sûr, upload sûr.

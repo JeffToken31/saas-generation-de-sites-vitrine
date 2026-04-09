@@ -1,0 +1,1 @@
+Sections standard, variantes autorisées, limites de personnalisation.

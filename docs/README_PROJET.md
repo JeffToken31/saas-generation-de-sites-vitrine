@@ -73,7 +73,10 @@ La documentation est organisée selon un principe simple :
 ```text
 /documentation
   README_PROJET.md
-
+  /00_pilotage
+    backlog-documentaire.md
+    index-avancement.md
+    
   /01_vision-strategie
     vision-produit.md
     probleme-cible-marche.md
@@ -90,13 +93,20 @@ La documentation est organisée selon un principe simple :
     hypotheses-economiques.md
     modele-de-commercialisation.md
     modele-de-facturation.md
+    strategie-acquisition.md
+    argumentaire-commercial.md
+    qualification-leads.md
 
   /04_produit-metier
     modele-metier.md
     parcours-utilisateur.md
     regles-de-gestion.md
+    cycle-de-vie-projet.md
     user-stories.md
     criteres-acceptation.md
+    questionnaire-de-collecte.md
+    strategie-contenu.md
+    template-systeme-sections.md
 
   /05_tech-architecture
     architecture-logique.md
@@ -105,21 +115,45 @@ La documentation est organisée selon un principe simple :
     dependances-et-services-externes.md
     strategie-authentification.md
     strategie-autorisations-rbac.md
+    strategie-validation-et-sanitization.md
+    strategie-preview-publication.md
+    strategie-multi-tenant.md
+    /diagrammes
+      c4-contexte.md
+      c4-conteneurs.md
+      c4-composants.md
+      diagramme-er.md
+      diagramme-sequence-preview.md
+      diagramme-sequence-publication.md
+      diagramme-deploiement.md
 
   /06_ops-deploiement-qualite
-    performance-et-capacite.md
+    infrastructure-deploiement.md
+    gestion-domaines-hebergement.md
     securite-applicative.md
     securite-reseau-et-infra.md
     observabilite.md
-    infrastructure-deploiement.md
-    billing-technique.md
+    support-et-exploitation.md
+    strategie-tests-et-recette.md
+    performance-et-capacite.md
+    budget-outils-et-couts-recurrents.md
+    runbook-incidents.md
 
-  /07_validation-roadmap
+  /07_juridique-conformite
+    rgpd.md
+    mentions-legales-et-politique-confidentialite.md
+    cgv-et-contrat-type.md
+    propriete-intellectuelle-et-contenus.md
+    reversibilite-sortie-client.md
+
+  /08_validation-roadmap
     hypotheses-a-tester.md
     questions-ouvertes.md
     roadmap.md
     journal-decisions.md
     registre-des-risques.md
+    kpi-produit-business.md
+    plan-de-validation-terrain.md
 ---
 
 ## 6. Rôle des dossiers

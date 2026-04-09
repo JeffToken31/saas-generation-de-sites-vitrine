@@ -1,0 +1,1 @@
+Que faire si le client n’a pas de texte, pas de photos, peu d’infos.

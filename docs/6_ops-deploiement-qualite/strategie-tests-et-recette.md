@@ -1,0 +1,1 @@
+Unitaires, intégration, e2e, smoke tests, checklist avant mise en ligne.
