@@ -40,3 +40,10 @@
 - quel niveau d’automatisation est réaliste en V1 ?
 - quelle stratégie de preview est la plus simple ?
 - quelle stratégie de publication et de domaines est la plus robuste au départ ?
+
+## 6. Positionnement / naming
+
+- le nom “Référence Locale” évite-t-il suffisamment les lectures de type annuaire, média local ou label ?
+- le descripteur principal doit-il rester “Spécialiste des sites vitrines pour artisans” ou évoluer vers une formulation plus orientée bénéfice ?
+- la promesse courte la plus forte est-elle bien “Être trouvé localement et inspirer confiance” ?
+- quelle différenciation principale veut-on assumer en façade : meilleure personnalisation, meilleure souplesse d’entrée, meilleur accompagnement, ou combinaison limitée de ces éléments ?

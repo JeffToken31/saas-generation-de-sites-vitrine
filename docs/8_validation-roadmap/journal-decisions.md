@@ -51,3 +51,19 @@ Format recommandé :
 **Décision** : privilégier une posture de structure spécialisée / studio plutôt qu’agence classique ou simple freelance  
 **Statut** : hypothèse forte  
 **Justification** : meilleure cohérence avec la logique produit + accompagnement
+
+### Décision 6
+
+**Sujet** : posture de la structure  
+**Décision** : ne pas se présenter comme une agence classique ni comme un simple freelance, mais comme une structure spécialisée proposant une solution cadrée avec accompagnement humain maîtrisé  
+**Statut** : provisoirement acté  
+**Justification** : meilleure cohérence avec la logique de service produit, le besoin de réassurance client et la volonté d’éviter une promesse de sur-mesure flou  
+**Impact** : influence le discours commercial, la landing page, le modèle de vente et la perception de marque
+
+### Décision 7
+
+**Sujet** : naming provisoire  
+**Décision** : retenir “Référence Locale” comme nom commercial provisoire préféré  
+**Statut** : orientation forte révisable  
+**Justification** : nom cohérent avec la visibilité locale, la crédibilité professionnelle et la promesse de réassurance au moment du choix client  
+**Impact** : influence le positionnement externe, le ton de marque, le descripteur, le domaine et la landing page
